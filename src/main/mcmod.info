@@ -1,0 +1,28 @@
+{
+    "modListVersion": 2,
+    "modList": [
+        {
+            "modid": "Maguscraft",
+            "name": "Maguscraft",
+            "description": "This mod adds a magic system to Minecraft. 
+This new system allows the player to achieve a variety of effects.",
+            "version": "1.0",
+            "mcversion": "1.7.10",
+            "url": "",
+            "updateUrl": "",
+            "authorList": [
+                "Azrael_The_Absolute_Death"
+            ],
+            "credits": "Authored by Azrael",
+            "logoFile": "",
+            "screenshots": [],
+            "parent": "",
+            "requiredMods": [
+                "Forge"
+            ],
+            "dependencies": ["mod_MinecraftForge"],
+            "dependants": [],
+            "useDependencyInformation": true
+        }
+    ]
+}
